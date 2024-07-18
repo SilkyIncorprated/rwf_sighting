@@ -1,0 +1,40 @@
+{
+	"animations" : [
+		{
+			"anim": "idle",
+			"elementName": "rwf_herobrine_anims_idle",
+			"loops": true,
+			"framerate": 12
+		},
+		{
+			"anim": "left",
+			"elementName": "rwf_herobrine_anims_left",
+			"loops": false,
+			"framerate": 12
+		}, 
+		{
+			"anim": "down",
+			"elementName": "rwf_herobrine_anims_down",
+			"loops": false,
+			"framerate": 12
+		}, 
+		{
+			"anim": "up",
+			"elementName": "rwf_herobrine_anims_up",
+			"loops": false,
+			"framerate": 12
+		}, 
+		{
+			"anim": "right",
+			"elementName": "rwf_herobrine_anims_right",
+			"loops": false,
+			"framerate": 12
+		}
+	],
+	"scale" : 3,
+	"icon" : "id19205",
+	"isFacingRight" : true,
+	"character_image" : "characters/rwf_herobrine_anims",
+	"GlobalPosition" : [0, 30],
+	"singDuration" : 2.0
+}

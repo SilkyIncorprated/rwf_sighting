@@ -1,0 +1,10 @@
+﻿{
+	"id": "silky.rwf.sighting.herobrine.silkyver",
+	"name": "RWF: SIGHTING",
+	"version": "1.0.0",
+	"authors": "Silky",
+	"description": "A port of greggreg herobrine song",
+	"requirements": [ "silky.rwf" ],
+	"requirements_names": [ "Rainy World Funkin'" ],
+	"checksum_override_version" : false
+}

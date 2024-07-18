@@ -1,0 +1,13 @@
+{
+	"pieces" : [
+		{
+			"spr_name": "funkin/images/sh_e05",
+			"pos": {"x": -200, "y": -400},
+			"scale": {"x": 4.5, "y": 4.5},
+			"scroll": {"x": 1, "y": 1}
+		}
+	],
+	"zoom" : 0.4,
+	"dad_pos" : [650, 425],
+	"bf_pos" : [1225, 340]
+}
